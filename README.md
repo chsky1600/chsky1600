@@ -1,16 +1,21 @@
-### Hi there 👋
+# <p align="center">Hi👋  I'm Ethan Chankowsky</p>
+## <p align="center">A dedicated Software Design student from Toronto, ON, fueled by passion and coffee ☕</p>
 
-<!--
-**chsky1600/chsky1600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✏️ What I'm up to:
 
-Here are some ideas to get you started:
+* School 📚
+* Queen's Computing Students' Association (COMPSA) Volenteering 🏛
+* Queen's Data Analytics Association 📈
+  
+### 💻 Currently learning...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Node.js 🟩
+* MySQL 🗄️
+
+### 🔭 On the horizon:
+
+* Exploring more cloud technologies 
+* ...School
+
+
+Feel free to reach out / collab :D 
