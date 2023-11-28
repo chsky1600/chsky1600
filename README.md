@@ -3,19 +3,19 @@
 
 ### ✏️ What I'm up to:
 
-* School 📚
-* Queen's Computing Students' Association (COMPSA) Volenteering 🏛
+* Exams + Work 📚
+* Queen's Computing Students' Association (COMPSA) Volenteering 💜💛
 * Queen's Data Analytics Association 📈
   
 ### 💻 Currently learning...
 
-* Node.js 🟩
+* Express.js + Sequelize 🟩
 * MySQL 🗄️
 
 ### 🔭 On the horizon:
 
-* Exploring more cloud technologies 
+* 
 * ...School
 
 
-Feel free to reach out / collab :D 
+Feel free to reach out / collaborate :D 
