@@ -14,8 +14,8 @@
 
 ### 🔭 On the horizon:
 
-* 
-* ...School
+* Volunteering and Internship opportunities
+* ...School 
 
 
-Feel free to reach out / collaborate :D 
+Feel free to connect / collaborate :D 
