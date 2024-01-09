@@ -3,18 +3,21 @@
 
 ### ✏️ What I'm up to:
 
-* Exams + Work 📚
+* School 📚
 * Queen's Computing Students' Association (COMPSA) Volenteering 💜💛
-* Queen's Data Analytics Association 📈
+* Queen's Data Analytics Association (QDAA) Team Product Development 📈
   
 ### 💻 Currently learning...
 
 * Express.js + Sequelize 🟩
-* MySQL 🗄️
+* Assembly
+* Data structures
 
 ### 🔭 On the horizon:
 
 * Volunteering and Internship opportunities
+* QHacks '24 !! 🚀🇷🇴
+* RS encoding in pure Python!
 * ...School 
 
 
