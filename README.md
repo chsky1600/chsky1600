@@ -1,24 +1,23 @@
 # <p align="center">Hi👋  I'm Ethan</p>
-## <p align="center">A dedicated Software Design student from Toronto, ON, fueled by passion and coffee ☕</p>
+## <p align="center">A dedicated Software Design student from Toronto, ON, fueled by passion and espresso :P ☕</p>
 
 ### ✏️ What I'm up to:
 
-* School 📚
+* BCmpH 📚
 * Queen's Computing Students' Association (COMPSA) Volenteering 💜💛
 * Queen's Data Analytics Association (QDAA) Team Product Development 📈
   
 ### 💻 Currently learning...
 
-* Express.js + Sequelize 🟩
+* Passport.js
+* Postmark
 * Assembly
-* Data structures
+* DSA + Leetcode grind
 
 ### 🔭 On the horizon:
 
 * Volunteering and Internship opportunities
-* QHacks '24 !! 🚀🇷🇴
-* RS encoding in pure Python!
-* ...School 
+* Open source contributions
 
 
 Feel free to connect / collaborate :D 
