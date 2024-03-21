@@ -1,5 +1,5 @@
 # <p align="center">Hi👋  I'm Ethan</p>
-## <p align="center">A dedicated Software Design student from Toronto, ON, fueled by passion and espresso :P ☕</p>
+## <p align="center">A Software Design student from Toronto, ON, fueled by passion and espresso :P ☕</p>
 
 ### ✏️ What I'm up to:
 
