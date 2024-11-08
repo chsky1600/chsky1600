@@ -1,7 +1,7 @@
 # <p align="center">Hi👋  I'm Ethan</p>
-## <p align="center">A Software Design student from Toronto fueled by tech passion and espresso :P ☕</p>
+## <p align="center">A Software Design student from Toronto fueled by tech passion and espresso ☕</p>
 
-### ✏️ What I'm up to:
+### What I'm up to:
 
 * BCmpH 
 * Queen's Computing Students' Association (COMPSA) 
