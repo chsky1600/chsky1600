@@ -3,20 +3,20 @@
 
 ### ✏️ What I'm up to:
 
-* BCmpH 📚
-* Queen's Computing Students' Association (COMPSA) 💜💛
-* Queen's Data Analytics Association (QDAA) Team Product Development 📈
+* BCmpH 
+* Queen's Computing Students' Association (COMPSA) 
+* Queen's Data Analytics Association (QDAA) Team Product Development 
   
-### 💻 Currently learning...
+### Currently learning
 
 * Passport.js
 * Postmark
-* DSA 
+* EC2
 
-### 🔭 On the horizon:
+### On the horizon:
 
 * Volunteering
 * Internship opportunities
 * Open source 
 
-Feel free to connect / collaborate :D 
+Feel free to connect / collaborate  
