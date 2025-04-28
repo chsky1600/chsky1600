@@ -1,22 +1,9 @@
 # <p align="center">Hi👋  I'm Ethan</p>
-## <p align="center">A Software Design student from Toronto fueled by tech passion and espresso ☕</p>
+## <p align="center">A Software Engineering student from Toronto, Canada </p>
 
 ### What I'm up to:
 
-* BCmpH 
-* Queen's Computing Students' Association (COMPSA) 
-* Queen's Data Analytics Association (QDAA) Team Product Development 
+* BCmpH degree 
+* https://tricode.cloud 
   
-### Currently learning
-
-* Passport.js
-* Postmark
-* EC2
-
-### On the horizon:
-
-* Volunteering
-* Internship opportunities
-* Open source 
-
 Feel free to connect / collaborate  
