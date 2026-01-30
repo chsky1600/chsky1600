@@ -4,6 +4,6 @@
 ### What I'm up to:
 
 * BCmpH degree 
-* https://tricode.cloud 
+* https:clikk.ca 
   
 Feel free to connect / collaborate  
