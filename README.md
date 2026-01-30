@@ -4,6 +4,6 @@
 ### What I'm up to:
 
 * BCmpH degree 
-* https:clikk.ca 
+* https://clikk.ca 
   
 Feel free to connect / collaborate  
